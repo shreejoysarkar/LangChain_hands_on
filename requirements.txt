@@ -7,12 +7,14 @@ pymupdf
 sentence-transformers
 faiss-cpu
 langchain_chroma
-beautifulsoup4
-arxiv
+
+
 langchain-text-splitters
 python-dotenv
 langchain-openai
-sentence_transformers
-langchain_ollama
 
+langchain_ollama
+fastapi
 langchain_huggingface 
+langserve
+uvicorn
