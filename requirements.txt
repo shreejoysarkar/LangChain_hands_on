@@ -18,3 +18,4 @@ fastapi
 langchain_huggingface 
 langserve
 uvicorn
+bs4
