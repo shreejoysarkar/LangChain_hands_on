@@ -20,3 +20,4 @@ langserve
 uvicorn
 bs4
 langchain_google_genai
+langchain-mistralai
