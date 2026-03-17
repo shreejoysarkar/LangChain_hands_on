@@ -19,3 +19,4 @@ langchain_huggingface
 langserve
 uvicorn
 bs4
+langchain_google_genai
